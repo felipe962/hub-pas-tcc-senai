@@ -172,11 +172,8 @@ npm install
 Crie um arquivo `.env` na raiz do projeto:
 
 ```env
-REACT_APP_GOOGLE_MAPS_API_KEY=sua_chave_aqui
-REACT_APP_API_URL=http://localhost:3000
 REACT_APP_GOV_AUTH_URL=https://auth.gov.br
 DATABASE_URL=sua_url_de_conexao
-NODE_ENV=development
 ```
 
 ## 🏃 Rodando Localmente
@@ -188,8 +185,6 @@ npm run dev
 # Backend
 npm start
 
-# Mobile
-npm run mobile
 ```
 
 ## 🧪 Testes
@@ -211,10 +206,6 @@ pas-projeto/
 └── .env.example           # Exemplo de variáveis de ambiente
 ```
 ## REFERENCIAS
- [React](https://github.com/reactjs)
- [Java](https://github.com/java)
+ [Next.js](https://github.com/nextjs)
  [Node.js](https://github.com/nodejs)
- [Python](https://github.com/python)
- [PostgreSQL](https://github.com/postgresql)
- [MongoDB](https://github.com/mongodb)
- [Google Maps API](https://github.com/googlemaps)
+ [MYSQL](https://github.com/mysql)
