@@ -4,7 +4,10 @@
  
  ## 📋 Documentação
   
-  [TAP](#) | [Design](https://www.figma.com/design/FA6ByQPNz5zXQ3ex26yvPE/prototipo-pas?node-id=0-1&p=f&t=oC4CAhsPI0ckmX3e-0) | [Requisitos](https://sesisenaispedu-my.sharepoint.com/:w:/r/personal/nicolas_santos31_portalsesisp_org_br/Documents/Levantamento%20de%20Requisitos%20Funcionais.docx?d=wb5f8f46b8edf445bacda58460ee3baa3&csf=1&web=1&e=TrSzZs) | [Documentação Técnica](#)
+  [TAP](#) |
+   [Design](https://www.figma.com/design/FA6ByQPNz5zXQ3ex26yvPE/prototipo-pas?node-id=0-1&p=f&t=oC4CAhsPI0ckmX3e-0) |
+    [Requisitos](https://sesisenaispedu-my.sharepoint.com/:w:/r/personal/nicolas_santos31_portalsesisp_org_br/Documents/Levantamento%20de%20Requisitos%20Funcionais.docx?d=wb5f8f46b8edf445bacda58460ee3baa3&csf=1&web=1&e=TrSzZs) |
+     [Documentação Técnica](#)
  
 ## 👥 Equipe
 
@@ -15,14 +18,14 @@
   - **Professor Fernando**
 
 ### Autores
-  - **Nicolas Silva de Almeida Santos** — [@niiccholas](https://github.com/niiccholas)
-  - **Letícia Beatriz Martins** — [@lehmartinss](https://github.com/lehmartinss)
-  - **Felipe Bahia Correa** — [@felipe962](https://github.com/felipe962)
-  - **Vitor Paes Rodrigues** — [@whospaes](https://github.com/whospaes)
-  - **Ana Júlia Silva Macedo** — [@anamacedos](https://github.com/anamacedos)
+  - **Nicolas Silva de Almeida Santos** — [Nicolas silva](https://github.com/niiccholas)
+  - **Letícia Beatriz Martins** — [Leticia Beatriz](https://github.com/lehmartinss)
+  - **Felipe Bahia Correa** — [Felipe Bahia](https://github.com/felipe962)
+  - **Vitor Paes Rodrigues** — [Vitor Paes](https://github.com/whospaes)
+  - **Ana Júlia Silva Macedo** — [Ana Macedos](https://github.com/anamacedos)
 
 ### Desenvolvimento
-  - **Backend e Líder**: [Ana Júlia Silva Macedo](https://github.com/anamacedos)
+  - **Backend**: [Ana Júlia Silva Macedo](https://github.com/anamacedos)
   - **Frontend**: [Vitor Paes Rodrigues](https://github.com/whospaes/Whospaes)
   - **Mobile**: [Letícia Beatriz Martins](https://github.com/lehmartinss)
   - **Banco de Dados**: [Felipe Bahia Correa](https://github.com/felipe962)
@@ -87,28 +90,15 @@ Cada unidade de saúde cadastrada contém:
 - **Por Disponibilidade**: Unidades com atendimento 24h
 - **Por Nome**: Busca convencional pelo nome da unidade
 
-## 📲 Diferenças entre Mobile e Desktop
-
-### Mobile
-- Barra de navegação fixa na **parte inferior**
-- Mapa com cards de resultados na parte inferior
-- Tela inicial com barra de pesquisa, mapa e campanhas
-- Interface otimizada para toque
-
-### Desktop
-- Barra de navegação fixa na **parte superior**
-- Resultados de busca em aba lateral
-- Tela inicial com mapa expandido
-- Interface otimizada para mouse e teclado
 
 **Nota**: Todas as funcionalidades estão disponíveis em ambas as plataformas.
 
 ## 🗺️ Tecnologias Utilizadas
 
 - **Frontend**: React, Responsive Design
-- **Mobile**: React Native / Flutter
-- **Backend**: Node.js / Python
-- **Banco de Dados**: PostgreSQL / MongoDB
+- **Mobile**: Kotlin
+- **Backend**: Node.js 
+- **Banco de Dados**: MYSQL
 - **APIs Externas**: Google Maps API
 - **Autenticação**: GOV.br
 
@@ -124,7 +114,7 @@ Cada unidade de saúde cadastrada contém:
 ## 👤 Perfil do Usuário
 
 ### Informações Pessoais (Não Editáveis)
-- Foto de perfil
+
 - Nome
 - CPF
 - Naturalidade
@@ -133,6 +123,7 @@ Cada unidade de saúde cadastrada contém:
 
 ### Dados de Cadastro (Editáveis)
 - E-mail
+- Foto de perfil
 - Endereço
 - Telefone
 
@@ -219,7 +210,7 @@ pas-projeto/
 ├── README.md              # Este arquivo
 └── .env.example           # Exemplo de variáveis de ambiente
 ```
-### REFERENCIAS
+## REFERENCIAS
  [React](https://github.com/reactjs)
  [Java](https://github.com/java)
  [Node.js](https://github.com/nodejs)
