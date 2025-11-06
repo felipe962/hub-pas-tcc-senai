@@ -26,7 +26,7 @@
 
 ### Desenvolvimento
   - **Backend**: [Ana Júlia Silva Macedo](https://github.com/anamacedos)
-  - **Frontend**: [Vitor Paes Rodrigues]()https://github.com/whospaes/senai-tcc-pas
+  - **Frontend**: [Vitor Paes Rodrigues](https://github.com/whospaes/senai-tcc-pas)
   - **Mobile**: [Letícia Beatriz Martins](https://github.com/lehmartinss/tcc_pas)
   - **Banco de Dados**: [Felipe Bahia Correa](https://github.com/felipe962)
   - **Gerente de Projetos**: [Nicolas Silva de Almeida Santos](https://github.com/niiccholas)
